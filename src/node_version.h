@@ -5,6 +5,8 @@
 #define NODE_MINOR_VERSION 8
 #define NODE_PATCH_VERSION 5
 
+#define NODE_TAG "-meteor"
+
 #define NODE_VERSION_IS_LTS 1
 #define NODE_VERSION_LTS_CODENAME "Argon"
 
